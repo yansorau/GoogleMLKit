@@ -1,0 +1,32 @@
+{
+  "MLKitCommon": {
+    "version": "14.0.0",
+    "source": "https://dl.google.com/dl/cpdc/00f258dabdb58dfa/MLKitCommon-14.0.0.tar.gz",
+    "sha256": "ee588e0b1bd6ca6f455001d59e769396ab40566acdd5001f85c54df24e487c54",
+    "arm64_device_sha256": "b434357fac70bb3208de8a854818c088c9683687f2e9e571ad8b454c7a43e33c",
+    "x86_64_simulator_sha256": "eae9bb15808b0908ab109e90d62d4b46e9ff20a382f9ec083ff4a69ab5df2e5f",
+    "arm64_simulator_sha256": "14eb67f2dda694a64910d1bac94223c7ae6e3a64eca89803c6737db9225d080d",
+    "arm64_object_count": 397,
+    "duplicate_object_names": 3
+  },
+  "MLKitLanguageID": {
+    "version": "9.0.0",
+    "source": "https://dl.google.com/dl/cpdc/abd494a0381d8d03/MLKitLanguageID-9.0.0.tar.gz",
+    "sha256": "4a05208e7881d3fcf0725ec8a3813b7a1a0afb5343e1089d2a118a343134c372",
+    "arm64_device_sha256": "59b89db605d6b8c6a5e289c30c1a96ecbd7eb69752e6cce9945af4f6cc6a5ced",
+    "x86_64_simulator_sha256": "193849bc614f61ddace5f9678eda312eaa39a634b381ed7c5e6466e161ffa289",
+    "arm64_simulator_sha256": "3c21f63425cd79194ec3992c01ee5dcdc393b9b926c112f87bb7378009cb35b8",
+    "arm64_object_count": 1,
+    "duplicate_object_names": 0
+  },
+  "MLKitNaturalLanguage": {
+    "version": "10.0.0",
+    "source": "https://dl.google.com/dl/cpdc/16c4bb76b6337f56/MLKitNaturalLanguage-10.0.0.tar.gz",
+    "sha256": "03677e13dd1071140cd24f1eebabd44df6a7ab2369aca62475780b27ac92e632",
+    "arm64_device_sha256": "f57de462faf979eafef2cfe6bc7d76b8607203d023ca423b172f02210affbb0a",
+    "x86_64_simulator_sha256": "69de08196f4b0d963a1f6aa4d4ceac70ad7e7a4132868a29d08b3c86aa83c4f4",
+    "arm64_simulator_sha256": "7dfc693856c52a028a8cbf31cb6c4751e4f4bbd807e5ac7fa77c036518154e6e",
+    "arm64_object_count": 58,
+    "duplicate_object_names": 0
+  }
+}
